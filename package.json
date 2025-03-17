@@ -1,5 +1,5 @@
 {
-  "homepage": "https://avatansh9.github.io/SpiltIt",
+  "homepage": "https://avatansh9.github.io/sample",
   "name": "spiltit",
   "private": true,
   "version": "0.0.0",
@@ -10,9 +10,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
 
-  },
+  }, 
   "dependencies": {
     "@tailwindcss/vite": "^4.0.14",
     "gh-pages": "^6.3.0",
