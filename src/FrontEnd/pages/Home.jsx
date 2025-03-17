@@ -105,7 +105,7 @@ export const ButtonArray = () => {
   return (
     <>
       <div className="flex flex-col">
-        <div className="flex items-center justify-start py-10 md:py-5`` mr-15">
+        <div className="flex items-center justify-start py-10 md:py-5`` mr-1">
           <div className=" w-1/2   size-20 mb-9 lg:w-1/2 lg:size-20 lg:mb-1">
             <InputBox
               label="Username:-"
