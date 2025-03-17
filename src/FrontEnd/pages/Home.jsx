@@ -159,7 +159,7 @@ export const ButtonArray = () => {
       </div>
 
       <div className=" ml-1 mt-5 sm:ml-2 md:ml-8 md:mt-1 xl:px-23">
-        <h3 className="font-bold ml-5 mr-65 underline sm:mr-30 md:mr-50 lg:mr-170  rounded-2xl px-4 py-1">
+        <h3 className="font-bold ml-5 mr-20 underline sm:mr-30 md:mr-50 lg:mr-170  rounded-2xl px-4 py-1">
           Users and Their Money:
         </h3>
         <ul className="font-semibold ml-9 mt-2">
