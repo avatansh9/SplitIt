@@ -147,7 +147,7 @@ export const ButtonArray = () => {
       </div>
 
       <div className="md:flex sm:py-3 px-2 sm:mt-1 mt-5 xl:px-25">
-        <div className="px-35 sm:px-30 md:px-13 ">
+        <div className="px-30 sm:px-30 md:px-13 ">
           <Button label="Spilt Money" onClick={splitMoney} />
         </div>
 
